@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Arcana Kael!</h1>
 
-<!--
-**ArcanaKael/ArcanaKael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>Visitor Count</b></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ArcanaKael/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/manojuppala/manojuppala/raw/master/assets/code.gif?raw=true" alt="GIF" width="600"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Welcome to my GitHub profile! I’m passionate about machine learning, deep learning, and building data driven applications using Streamlit, TensorFlow, and Hugging Face.
+
+---
+
+## 🛠 Languages and Tools
+
+- **Languages**: Python 
+- **Libraries & Frameworks**: Pandas • NumPy • Seaborn • Scikit-Learn • TensorFlow • Streamlit  
+- **Environments**: Jupyter Notebook • Anaconda • VS Code  
+- **Databases**: MySQL • PostgreSQL  
+- **Visualization**: Tableau • Matplotlib  
+- **Version Control**: Git • GitHub  
+- **OS**: Ubuntu • Windows  
+- **Other Tools**: Microsoft Excel
+
+---
+
+## 📫 Connect with me!
+- [Kaggle](https://www.kaggle.com/canakael)  
+- [Hugging Face](https://huggingface.co/canakael)
