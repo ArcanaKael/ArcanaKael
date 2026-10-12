@@ -1,22 +1,21 @@
 <h1 align="center">👋 Hi, I'm Arcana Kael!</h1>
 
 <p align="center">
-  <b>Visitor Count</b>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ArcanaKael&style=for-the-badge&color=blue"
-    alt="Profile Visitor Count"
-  />
-</p>
-
-<p align="center">
   <img
     src="https://github.com/manojuppala/manojuppala/raw/master/assets/code.gif"
-    alt="Coding GIF"
+    alt="Coding Animation"
     width="600"
   />
+</p>
+
+<p align="center">
+  Welcome to my GitHub profile!
+</p>
+
+<p align="center">
+  I'm passionate about machine learning, deep learning,
+  and building data-driven applications using Streamlit,
+  TensorFlow, and Hugging Face.
 </p>
 
 
