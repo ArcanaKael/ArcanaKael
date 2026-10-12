@@ -1,13 +1,24 @@
 <h1 align="center">👋 Hi, I'm Arcana Kael!</h1>
 
-<p align="center"><b>Visitor Count</b></p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ArcanaKael/count.svg" />
+  <b>Visitor Count</b>
 </p>
 
 <p align="center">
-  <img src="https://github.com/manojuppala/manojuppala/raw/master/assets/code.gif?raw=true" alt="GIF" width="600"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=ArcanaKael&style=for-the-badge&color=blue"
+    alt="Profile Visitor Count"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github.com/manojuppala/manojuppala/raw/master/assets/code.gif"
+    alt="Coding GIF"
+    width="600"
+  />
+</p>
+
 
 ---
 
